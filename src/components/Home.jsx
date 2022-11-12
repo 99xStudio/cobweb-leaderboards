@@ -56,9 +56,9 @@ export default function Home() {
         async function update() {
             await updateModSelector()
             await updateLeaderboard()
+            await updateLeaderboard()
         }
         update()
-        modSelectRef.current.onChange =  updateLeaderboard
     }, [])
 
     return <><div className="container">
