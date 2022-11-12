@@ -1,11 +1,11 @@
-div {
+div.container {
     display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
   }
 
-#div-noflex {
+div.noflex {
     display: block;
 }
 
@@ -13,7 +13,7 @@ div {
     background-color: blueviolet;
     border-radius: 10px;
     padding: 10px;
-    box-shadow: 10px 10px gray;
+    box-shadow: 5px 5px gray;
     color: azure;
 }
 

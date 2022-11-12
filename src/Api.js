@@ -2,9 +2,11 @@ import { supabase } from "./SBClient";
 
 export const getLeaderboardByGUID = async (guid) => {
     const { data } = await supabase.from("Leaderboards").select("*").eq("mod_guid", guid)
+    return data
+}
 
-    console.log(data)
-
+export const getAllLeaderboardMods = async () => {
+    const { data } = await supabase.from("Leaderboards").select("mod_guid")
     return data
 }
 

@@ -1,5 +1,5 @@
 import './App.css'
-import { getLeaderboardByGUID, addNewEntry } from "./Api"
+import { getLeaderboardByGUID } from "./Api"
 import { useState, useEffect } from 'react'
 
 export const App = () => {
@@ -15,10 +15,6 @@ export const App = () => {
       els.push(<div className='lb-entry' key={entry.id}>{entry.player_name} - {entry.score} - {dateString}</div>)
     })
     setLb(els)
-  }
-
-  async function addTestData() {
-    await addNewEntry(targetLb, 3, "reddust9")
   }
 
   useEffect(() => {
