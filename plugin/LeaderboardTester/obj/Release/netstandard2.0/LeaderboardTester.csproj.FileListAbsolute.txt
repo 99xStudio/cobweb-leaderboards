@@ -1,0 +1,13 @@
+D:\CobwebLeaderboards\plugin\LeaderboardTester\bin\Release\netstandard2.0\LeaderboardTester.deps.json
+D:\CobwebLeaderboards\plugin\LeaderboardTester\bin\Release\netstandard2.0\LeaderboardTester.dll
+D:\CobwebLeaderboards\plugin\LeaderboardTester\bin\Release\netstandard2.0\LeaderboardTester.pdb
+D:\CobwebLeaderboards\plugin\LeaderboardTester\bin\Release\netstandard2.0\CWLB.dll
+D:\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.csproj.AssemblyReference.cache
+D:\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\PluginInfo.cs
+D:\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.GeneratedMSBuildEditorConfig.editorconfig
+D:\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.AssemblyInfoInputs.cache
+D:\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.AssemblyInfo.cs
+D:\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.csproj.CoreCompileInputs.cache
+D:\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.csproj.CopyComplete
+D:\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.dll
+D:\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.pdb

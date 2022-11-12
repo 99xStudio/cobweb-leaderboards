@@ -1,0 +1,12 @@
+D:\CobwebLeaderboards\plugin\CobwebLeaderboards\bin\Release\netstandard2.0\CWLB.deps.json
+D:\CobwebLeaderboards\plugin\CobwebLeaderboards\bin\Release\netstandard2.0\CWLB.dll
+D:\CobwebLeaderboards\plugin\CobwebLeaderboards\bin\Release\netstandard2.0\0Harmony.dll
+D:\CobwebLeaderboards\plugin\CobwebLeaderboards\bin\Release\netstandard2.0\BepInEx.Core.dll
+D:\CobwebLeaderboards\plugin\CobwebLeaderboards\bin\Release\netstandard2.0\BepInEx.Unity.dll
+D:\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.csproj.AssemblyReference.cache
+D:\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.GeneratedMSBuildEditorConfig.editorconfig
+D:\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.AssemblyInfoInputs.cache
+D:\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.AssemblyInfo.cs
+D:\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.csproj.CoreCompileInputs.cache
+D:\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.csproj.CopyComplete
+D:\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.dll
