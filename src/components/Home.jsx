@@ -37,6 +37,12 @@ export default function Home() {
         dates.filter(onlyUniqueFilter)
 
         var els = []
+        /*els.push(<p key="heading">
+            <span className="box-0">  Date  </span>
+            <span className="box-0">  Time  </span>
+            <span className="box-1">  Score  </span>
+            <span className="box-2">  Player  </span>
+        </p>)*/
         data.forEach((score, i) => {
             var d = new Date(score.created_at)
             var dstring = `${d.getDate()}/${d.getMonth() + 1}/${d.getFullYear()}`
