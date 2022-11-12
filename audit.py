@@ -35,6 +35,11 @@ if __name__ == "__main__":
     delete_count = 0
     scores = fetch_all_scores()
 
+    if len(scores) < 1:
+        print("There are no scores on the leaderboards!")
+        print("Come back later")
+        exit(0)
+
     clear()
     print("Cobweb Leaderboard auditor V1")
     print("Current average score:", get_average_score(scores))
