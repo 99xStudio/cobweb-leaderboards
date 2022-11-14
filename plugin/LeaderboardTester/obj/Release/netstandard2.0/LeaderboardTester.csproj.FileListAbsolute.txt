@@ -11,3 +11,16 @@ D:\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\Leader
 D:\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.csproj.CopyComplete
 D:\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.dll
 D:\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.pdb
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\LeaderboardTester\bin\Release\netstandard2.0\LeaderboardTester.deps.json
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\LeaderboardTester\bin\Release\netstandard2.0\LeaderboardTester.dll
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\LeaderboardTester\bin\Release\netstandard2.0\LeaderboardTester.pdb
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\LeaderboardTester\bin\Release\netstandard2.0\CWLB.dll
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.csproj.AssemblyReference.cache
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\PluginInfo.cs
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.AssemblyInfoInputs.cache
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.AssemblyInfo.cs
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.csproj.CoreCompileInputs.cache
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.csproj.CopyComplete
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.dll
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\LeaderboardTester\obj\Release\netstandard2.0\LeaderboardTester.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rZWJVcJBW0EVMmqER7K52/EkmEpULYyVxd6obZnT2AWtg7JEiKbC1idImfqQm0EKs1OukgH63q3iWSaVUw2Umw==",
+  "dgSpecHash": "mui2QOgeKc5zUPpQiKU8zEXuwnfOTfdW8vEbQmr2CVFgBP071JtZ6pUd9ffMC7dDqHRLk+bo5EtE215CUN0MNQ==",
   "success": true,
-  "projectFilePath": "D:\\CobwebLeaderboards\\plugin\\CobwebLeaderboards\\CWLB.csproj",
+  "projectFilePath": "C:\\Users\\reddust9\\cobweb\\CobwebLeaderboards\\plugin\\CobwebLeaderboards\\CWLB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\reddust9\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\reddust9\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

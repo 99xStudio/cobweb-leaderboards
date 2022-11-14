@@ -3001,14 +3001,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CobwebLeaderboards\\plugin\\LeaderboardTester\\LeaderboardTester.csproj",
+      "projectUniqueName": "C:\\Users\\reddust9\\cobweb\\CobwebLeaderboards\\plugin\\LeaderboardTester\\LeaderboardTester.csproj",
       "projectName": "LeaderboardTester",
-      "projectPath": "D:\\CobwebLeaderboards\\plugin\\LeaderboardTester\\LeaderboardTester.csproj",
+      "projectPath": "C:\\Users\\reddust9\\cobweb\\CobwebLeaderboards\\plugin\\LeaderboardTester\\LeaderboardTester.csproj",
       "packagesPath": "C:\\Users\\reddust9\\.nuget\\packages\\",
-      "outputPath": "D:\\CobwebLeaderboards\\plugin\\LeaderboardTester\\obj\\",
+      "outputPath": "C:\\Users\\reddust9\\cobweb\\CobwebLeaderboards\\plugin\\LeaderboardTester\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "D:\\CobwebLeaderboards\\plugin\\NuGet.Config",
+        "C:\\Users\\reddust9\\cobweb\\CobwebLeaderboards\\plugin\\NuGet.Config",
         "C:\\Users\\reddust9\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
@@ -3022,8 +3022,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "D:\\CobwebLeaderboards\\plugin\\CobwebLeaderboards\\CWLB.csproj": {
-              "projectPath": "D:\\CobwebLeaderboards\\plugin\\CobwebLeaderboards\\CWLB.csproj"
+            "C:\\Users\\reddust9\\cobweb\\CobwebLeaderboards\\plugin\\CobwebLeaderboards\\CWLB.csproj": {
+              "projectPath": "C:\\Users\\reddust9\\cobweb\\CobwebLeaderboards\\plugin\\CobwebLeaderboards\\CWLB.csproj"
             }
           }
         }

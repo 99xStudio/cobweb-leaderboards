@@ -30,5 +30,17 @@ namespace CWLB
             var response = client.SendAsync(request).Result;
             var respText = response.Content.ReadAsStringAsync().Result;
         }
+
+        public static IEnumerable<GetAllEntries> GetAllEntries()
+        {
+            var client = new HttpClient();
+            var request = new HttpRequestMessage(HttpMethod.Get,
+                "https://croiqlfjgofhokfrpagk.supabase.co/rest/v1/Leaderboards?select=*");
+            request.Headers.Accept.Add(MediaTypeWithQualityHeaderValue.Parse("application/json"));
+            request.Headers.Add("apikey", API.sb_anon_key);
+            var response = client.SendAsync(request).Result;
+            var jsonStr = response.Content.ReadAsStringAsync().Result ?? "ERROR";
+            return JsonUtility.FromJson<IEnumerable<GetAllEntries>>(jsonStr);
+        }
     }
 }

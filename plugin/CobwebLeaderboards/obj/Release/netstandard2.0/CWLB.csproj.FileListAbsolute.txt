@@ -10,3 +10,15 @@ D:\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.
 D:\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.csproj.CoreCompileInputs.cache
 D:\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.csproj.CopyComplete
 D:\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.dll
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\CobwebLeaderboards\bin\Release\netstandard2.0\CWLB.deps.json
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\CobwebLeaderboards\bin\Release\netstandard2.0\CWLB.dll
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\CobwebLeaderboards\bin\Release\netstandard2.0\0Harmony.dll
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\CobwebLeaderboards\bin\Release\netstandard2.0\BepInEx.Core.dll
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\CobwebLeaderboards\bin\Release\netstandard2.0\BepInEx.Unity.dll
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.csproj.AssemblyReference.cache
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.AssemblyInfoInputs.cache
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.AssemblyInfo.cs
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.csproj.CoreCompileInputs.cache
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.csproj.CopyComplete
+C:\Users\reddust9\cobweb\CobwebLeaderboards\plugin\CobwebLeaderboards\obj\Release\netstandard2.0\CWLB.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hnkcwXaWQaQuGlskwaoUC7nhNdjDbKp/w/5n1varw+6Gy/LcnGK9Xf9gUUv9R0z1QCxCk+NPjMO5DRp/iKfCDQ==",
+  "dgSpecHash": "l9RJMGGMhqRgdoAMeFKSc1YngTFi97CYmxiHr1PUKTHrykc0LsYomiCPz7t9raDuspMfj2HMCp3OXGlooJudoA==",
   "success": true,
-  "projectFilePath": "D:\\CobwebLeaderboards\\plugin\\LeaderboardTester\\LeaderboardTester.csproj",
+  "projectFilePath": "C:\\Users\\reddust9\\cobweb\\CobwebLeaderboards\\plugin\\LeaderboardTester\\LeaderboardTester.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\reddust9\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
     "C:\\Users\\reddust9\\.nuget\\packages\\bepinex.core\\6.0.0-pre.1\\bepinex.core.6.0.0-pre.1.nupkg.sha512",

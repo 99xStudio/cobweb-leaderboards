@@ -1,4 +1,6 @@
+using System.Collections;
 using BepInEx;
+using BepInEx.Logging;
 using CWLB.Json;
 
 namespace CWLB;
@@ -29,5 +31,15 @@ public class CobwebLeaderboard
     public void AddEntry(string playerName, int score)
     {
         API.AddToLeaderboard(this.modGuid, this.modName, playerName, score);
+    }
+
+    public static IEnumerable<GetAllEntries> GetAllEntries()
+    {
+        return API.GetAllEntries();
+    }
+
+    public static IEnumerable<GetAllEntries> GetEntriesByMod(string guid)
+    {
+        return GetAllEntries().Where(entry => entry.mod_guid == guid);
     }
 }

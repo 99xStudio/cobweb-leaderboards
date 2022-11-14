@@ -43,6 +43,7 @@ if __name__ == "__main__":
     clear()
     print("Cobweb Leaderboard auditor V1")
     print("Current average score:", get_average_score(scores))
+    print("Amount of scores:", len(scores))
     print()
     print("Type y or just press enter to keep score,")
     print("Type n to remove the score")
